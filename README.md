@@ -14,12 +14,5 @@ phase-2
 6. add your model to base/admin.py to see in admin dash board
 
 
-
-![Screenshot 2022-07-05 at 10.30.52 AM](/Users/laxmikumaryadav/Desktop/Screenshot 2022-07-05 at 10.30.52 AM.png)
-
-![Screenshot 2022-07-05 at 10.26.42 AM](/Users/laxmikumaryadav/Desktop/Screenshot 2022-07-05 at 10.26.42 AM.png)
-
-![Screenshot 2022-07-05 at 10.26.57 AM](/Users/laxmikumaryadav/Desktop/Screenshot 2022-07-05 at 10.26.57 AM.png)
-
 followed this youtube chanel
 https://www.youtube.com/watch?v=cJveiktaOSQ&ab_channel=DennisIvy
